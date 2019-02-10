@@ -1,2 +1,2 @@
-# RGIgra18
-Server za igru razvijenu u Unity3D na predmetu Računarska grafika, akademska 2018/2019. ETF Sarajevo
+# RGIgra18/RGGame18
+Server for a game developed in Unity3D game engine on course Computer Graphics, Faculty of Electrical Engineering 2018/2019
